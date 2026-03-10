@@ -154,8 +154,6 @@ This section demonstrates Azure RBAC groups and role assignments.
 ### Entra ID Groups
 ![Azure Groups](screenshots/azure-rbac/azure-groups-overview.png)
 
-### Role Assignments Overview
-![Azure Role Assignments](screenshots/azure-rbac/azure-role-assignments.png)
 
 ### Owner Role Assignment
 ![Azure Owner Role](screenshots/azure-rbac/azure-owner-role.png)
