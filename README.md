@@ -138,3 +138,48 @@ It highlights:
 - cloud security fundamentals
 - identity governance
 - cross-platform RBAC models
+
+---
+# AWS Implementation
+
+This section demonstrates IAM users, groups, and policies.
+
+
+# AWS IAM Implementation Screenshots
+
+### IAM Groups Overview
+![AWS IAM Groups](screenshots/aws-iam-users-groups/groups-overview.png)
+
+### Developers Group Permissions
+![Cloud Developers Permissions](screenshots/aws-iam-users-groups/cloud-developers-permissions.png)
+
+### Security Auditors Permissions
+![Security Auditors Permissions](screenshots/aws-iam-users-groups/security-auditors-permissions.png)
+
+### Custom EC2 IAM Policy
+![EC2 Developer Policy](screenshots/aws-iam-users-groups/ec2-developer-policy.png)
+
+### User Group Membership
+![Developer Group Membership](screenshots/aws-iam-users-groups/developer-group-membership.png)
+
+---
+
+# Azure Implementation
+
+This section demonstrates Azure RBAC groups and role assignments.
+
+# Azure RBAC Implementation Screenshots
+
+### Entra ID Groups
+![Azure Groups](screenshots/azure-rbac/azure-groups-overview.png)
+
+### Role Assignments Overview
+![Azure Role Assignments](screenshots/azure-rbac/azure-role-assignments.png)
+
+### Owner Role Assignment
+![Azure Owner Role](screenshots/azure-rbac/azure-owner-role.png)
+
+### Reader Role Assignment
+![Azure Reader Role](screenshots/azure-rbac/azure-reader-role.png)
+
+---
