@@ -1,6 +1,6 @@
 # Multi-Cloud Identity and Access Management (AWS & Azure)
 
-This project demonstrates a **multi-cloud Identity and Access Management (IAM) architecture** implemented across **AWS and Microsoft Azure**. The goal is to showcase how enterprise environments manage identities, permissions, and access control using **Role-Based Access Control (RBAC)** and **least privilege principles**.
+This project demonstrates a **multi-cloud Identity and Access Management (IAM) architecture** implemented across **AWS and Microsoft Azure**.  The goal is to showcase how enterprise environments manage identities, permissions, and access control using **Role-Based Access Control (RBAC)** and **least privilege principles**.
 
 ---
 
