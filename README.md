@@ -8,31 +8,23 @@ The goal is to showcase how enterprise environments manage identities, permissio
 
 # Architecture Overview
 
+
+
+
+
+
+
+
+
+
+
 ## AWS IAM Model
 
-User → Group → Policy
-
-Example implementation:
-
-cloud-admin  
-↓  
-cloud-admins  
-↓  
-AdministratorAccess  
-
-dev-engineer  
-↓  
-cloud-developers  
-↓  
-PowerUserAccess + EC2DeveloperPolicy  
-
-security-auditor  
-↓  
-security-auditors  
-↓  
-SecurityAudit  
-
----
+| User | Group | Policy |
+|-----|------|------|
+| cloud-admin | cloud-admins | AdministratorAccess |
+| dev-engineer | cloud-developers | PowerUserAccess + EC2DeveloperPolicy |
+| security-auditor | security-auditors | SecurityAudit |---
 
 ## Azure RBAC Model
 
